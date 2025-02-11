@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mehedi Hasan!  
 
-<!--
-**Mehadi4021/Mehadi4021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Machine Learning Enthusiast | Full-Stack Developer | Problem Solver**  
 
-Here are some ideas to get you started:
+## 💡 About Me  
+I'm passionate about **Machine Learning, Web Development, and Problem-Solving**. I love exploring new technologies and building cool projects that make an impact!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills & Expertise  
+### 🚀 Machine Learning  
+- 🤖 Deep Learning & AI  
+- 📊 Data Analysis & Visualization  
+- 🔍 Model Training & Optimization  
+
+### 🌐 Web Development  
+- 🏗 Frontend: **HTML, CSS**  
+- ⚙️ Backend: **Node.js**  
+
+### 🛢 Databases  
+- 💾 **MySQL**  
+
+### 💻 Programming Languages  
+- 🐍 **Python**  
+- 💡 **C, C++**  
+
+## 📫 Let's Connect!  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mhmehedihasan.21/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehedi_hasan_665/)  
+
+💡 *Always learning, always building!* 🚀  
