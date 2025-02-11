@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mehedi Hasan!  
+# 👋 Hey there, I'm Mehadi Hasan!  
 
 🚀 **Machine Learning Enthusiast | Full-Stack Developer | Problem Solver**  
 
