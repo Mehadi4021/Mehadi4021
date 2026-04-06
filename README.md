@@ -36,8 +36,6 @@ I thrive at the intersection of **Machine Learning** and **Practical Automation*
 - **Lead Management Workflows:** End-to-end GHL funnel and automation setups for Real Estate and Service sectors.
 
 ---
-
-## 📫 Let's Connect
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mehedi-hasan-5207b6277/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.mehadihasan.03/)
