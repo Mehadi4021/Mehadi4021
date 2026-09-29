@@ -1,51 +1,353 @@
-# 👋 Md. Mehadi Hasan
+# Hi, I'm Md. Mehadi Hasan 👋
 
-**AI Automation Engineer | Machine Learning & Deep Learning Specialist** *Building intelligent, scalable systems that bridge the gap between AI and business operations.*
+### AI Automation Engineer | AI Agents | CRM Automation | Full-Stack Developer
 
----
+I'm an **AI Automation Engineer** passionate about building intelligent automation systems, AI-powered agents, CRM workflows, and practical software solutions.
 
-## 🚀 About Me
-I am a Computer Science & Engineering graduate and an **AI Automation Engineer** specializing in end-to-end workflow optimization. My work focuses on integrating Large Language Models (LLMs) with business CRMs to automate lead generation, customer communication, and complex operational logic. 
-
-I thrive at the intersection of **Machine Learning** and **Practical Automation**.
+I have hands-on experience with **GoHighLevel (GHL), AI Voice Agents, Chatbots, CRM Automation, APIs, Webhooks, OAuth, SaaS Integrations, and AI/ML technologies**. I enjoy transforming repetitive business processes into scalable and intelligent automated systems.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 👨‍💻 About Me
 
-### 🤖 AI & Automation
-- **Platforms:** GoHighLevel (Expert), Zapier, n8n, Voice AI.
-- **AI Models:** ChatGPT, Claude AI, Gemini (Advanced Prompt Engineering).
-- **Logic:** Custom Workflow Development, Multi-step API Integrations, Intelligent CRM Pipelines.
-
-### 📊 Machine Learning & Computer Vision
-- **Frameworks:** Scikit-learn, OpenCV, YOLO, CNNs.
-- **Data Science:** NumPy, Pandas, Data Visualization, Apriori Association.
-- **Current Research:** Explainable AI (XAI) in Traffic Management Systems.
-
-### 💻 Development & Databases
-- **Languages:** Python (Primary), Node.js, C++, C.
-- **Databases:** MySQL.
-- **Tools:** GitHub, Google Colab, Linux/Unix Environments.
+* 🎓 B.Sc. in Computer Science & Engineering from **University of Information Technology & Sciences (UITS)**
+* 📊 CGPA: **3.74 / 4.00**
+* 🤖 Working as an **AI Automation Engineer**
+* ⚙️ Experienced in **GoHighLevel CRM & Workflow Automation**
+* 🧠 Interested in **Artificial Intelligence, Machine Learning, LLMs, and AI Automation**
+* 🎙️ Experienced with **AI Voice Agents and Conversational AI**
+* 🔌 Experienced with **REST APIs, Webhooks, OAuth, JSON, and third-party integrations**
+* 🌐 Building AI-powered websites, CRM systems, and automation workflows
+* 🎯 Career focus: **AI Automation Engineering & Advanced AI Systems**
 
 ---
 
-## 🏆 Featured Projects
-- **Smart Traffic Detection (Dhaka):** YOLO-based real-time detection system with XAI integration. *1st Runner-Up, University Capstone.*
-- **Voice AI Agents:** Automated appointment scheduling and lead qualification systems.
-- **Lead Management Workflows:** End-to-end GHL funnel and automation setups for Real Estate and Service sectors.
+## 💼 Professional Experience
+
+### 🤖 The AI Studio
+
+**AI Automation Engineer**
+
+Working on AI automation and CRM solutions for businesses.
+
+#### Responsibilities & Experience
+
+* Building and managing **GoHighLevel CRM workflows**
+* Creating automated **lead capture, routing, nurturing, and follow-up systems**
+* Developing **AI Voice Agents and Chatbots**
+* Building business websites, funnels, forms, and surveys
+* Implementing automated appointment booking systems
+* Creating **missed-call text-back** automation
+* Managing CRM pipelines and opportunities
+* Working with custom fields, calendars, triggers, and workflow actions
+* Integrating third-party applications using **APIs, Webhooks, OAuth, and JSON**
+* Building automated email and SMS systems
+* Creating conversational AI solutions
+* Developing business-focused AI automation systems
 
 ---
-## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/md-mehedi-hasan-5207b6277/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.facebook.com/md.mehadihasan.03/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+### 💻 Octopi Digital LLC
+
+**Junior Executive**
+
+Worked on digital solutions, automation, and technology-driven business processes.
+
+#### Experience
+
+* Business process automation
+* CRM-related workflows
+* Digital solutions
+* Client communication systems
+* Technical support and implementation
+* Workflow optimization
 
 ---
-**Direct Email:** mehedihasan3052@gmail.com
+
+# 🛠️ Technical Skills
+
+## 🤖 AI & Automation
+
+* Artificial Intelligence
+* Generative AI
+* Large Language Models (LLMs)
+* Prompt Engineering
+* AI Voice Agents
+* Conversational AI
+* AI Chatbots
+* Business Process Automation
+* Intelligent Workflow Automation
+
+## 🏢 CRM & Automation
+
+* GoHighLevel (GHL)
+* CRM Automation
+* Lead Management
+* Lead Routing
+* Lead Nurturing
+* Sales Pipeline Automation
+* Opportunity Management
+* Appointment Booking
+* Calendar Automation
+* Missed Call Text Back
+* Email Automation
+* SMS Automation
+* Forms
+* Surveys
+* Funnels
+* Websites
+* Chatbots
+
+## 🔌 APIs & Integrations
+
+* REST APIs
+* Webhooks
+* OAuth
+* JSON
+* API Integration
+* Third-Party Integrations
+* Twilio
+* Google Workspace
+* Google Sheets
+* Zoom
+* Stripe
+* Calendly
+* WhatsApp
+
+## 💻 Programming & Development
+
+* Python
+* C++
+* JavaScript
+* HTML5
+* CSS3
+* Node.js
+* MongoDB
+* Git
+* GitHub
+* Vercel
+
+## 🧠 AI / Machine Learning
+
+* Machine Learning
+* Computer Vision
+* Object Detection
+* YOLO
+* Explainable AI (XAI)
+* Grad-CAM++
+* Model Evaluation
+* Data Augmentation
+* Deep Learning
+
 ---
-💡 *Engineering efficiency through intelligent automation.* 🚀
+
+# 🚀 Featured Projects
+
+## 🚦 Explainable AI for Smart Traffic Systems
+
+### Enhancing Transparency in Smart Traffic Systems: Explainable AI Approaches for YOLO-Based Detection and Model Comparison
+
+A computer vision and explainable AI project focused on detecting traffic-related objects and making model predictions more understandable.
+
+### 🔧 Technologies
+
+* Python
+* YOLO
+* Computer Vision
+* Explainable AI
+* Grad-CAM++
+* Gradio
+* Deep Learning
+
+### 📌 Key Features
+
+* Traffic-object detection
+* YOLO model comparison
+* Data augmentation
+* Model evaluation
+* Explainable AI visualization
+* Grad-CAM++ based explanations
+* Interactive Gradio interface
+* Region of Interest (ROI) analysis
+
+The project focuses on improving transparency in AI-powered smart traffic systems by providing visual explanations of model predictions.
+
+🏆 **1st Runner-Up**
+
+---
+
+# 🤖 AI Automation & CRM Systems
+
+Built practical automation systems for business operations using CRM, AI, and workflow automation.
+
+### Key Features
+
+* Lead capture
+* Lead routing
+* Lead nurturing
+* Automated follow-ups
+* Appointment booking
+* CRM pipeline management
+* AI Voice Agents
+* AI Chatbots
+* Email automation
+* SMS automation
+* Missed-call automation
+* Website automation
+* Social media automation
+* Third-party API integrations
+
+---
+
+# 🎙️ AI Voice Agent Automation
+
+Built conversational AI systems designed to handle business communication and automate customer interactions.
+
+### Capabilities
+
+* Incoming call handling
+* Conversational AI
+* Lead qualification
+* FAQ handling
+* Appointment scheduling
+* Call routing
+* Automated follow-ups
+* CRM integration
+
+The goal is to reduce repetitive manual communication while improving response time and customer experience.
+
+---
+
+# 📞 IVR PIN Authentication System
+
+Designed an automated IVR workflow for secure call routing.
+
+### Workflow
+
+```text
+Caller
+   ↓
+Automatic IVR Answer
+   ↓
+Request PIN
+   ↓
+Validate PIN
+   ↓
+ ┌───────────────┐
+ │               │
+Valid          Invalid
+ │               │
+ ↓               ↓
+Forward Call   Ask Again
+to Team        │
+Member         ↓
+             Retry
+               │
+               ↓
+        Maximum Attempts
+               │
+               ↓
+        Disconnect Call
+```
+
+### Key Features
+
+* Automated call answering
+* PIN authentication
+* Conditional workflow logic
+* Secure call routing
+* Retry handling
+* Automatic call termination
+
+---
+
+# 🏢 GoHighLevel CRM Automation
+
+Hands-on experience building CRM and workflow automation systems using GoHighLevel.
+
+### Areas of Experience
+
+* CRM setup
+* Pipelines
+* Opportunities
+* Contacts
+* Custom fields
+* Calendars
+* Forms
+* Surveys
+* Funnels
+* Websites
+* Email campaigns
+* SMS automation
+* Lead nurturing
+* Appointment automation
+* Missed-call text-back
+* Workflow triggers
+* Conditional logic
+* Automated notifications
+* Client communication workflows
+
+---
+
+# 🔗 Integrations
+
+I've worked with automation systems involving:
+
+```text
+GoHighLevel
+     ↓
+API / Webhook
+     ↓
+Third-Party Application
+     ↓
+Data Processing
+     ↓
+Automated Action
+     ↓
+CRM Update / Notification
+```
+
+Examples include:
+
+* Twilio
+* Google Sheets
+* Google Calendar
+* Google Workspace
+* Zoom
+* Stripe
+* Calendly
+* WhatsApp
+* REST APIs
+* Webhooks
+
+---
+
+# 📚 Education
+
+## 🎓 University of Information Technology & Sciences (UITS)
+
+**Bachelor of Science in Computer Science & Engineering**
+
+**CGPA: 3.74 / 4.00**
+
+**Graduated: 2025**
+
+---
+
+# 🎯 Current Focus
+
+I'm currently focused on developing deeper expertise in:
+
+* 🤖 AI Automation
+* 🧠 Large Language Models
+* 🎙️ Voice AI
+* 💬 Conversational AI
+* 🔄 Intelligent Workflow Automation
+* 🏢 CRM Automation
+* 🔌 API & SaaS Integrations
+* 👁️ Computer Vision
+* 🧪 Machine Learning
+* 🔬 AI Research
+* 🚀 AI-powered Software Systems
+
+---
